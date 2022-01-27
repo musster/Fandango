@@ -1,4 +1,4 @@
-# It is a common practice for many people to have a look (at least a quick one) at the movie ratings (or reviews) on various platforms if they are planning to go out to see a movie hoping this will help them to avoid wasting time and money.
+It is a common practice for many people to have a look (at least a quick one) at the movie ratings (or reviews) on various platforms if they are planning to go out to see a movie hoping this will help them to avoid wasting time and money.
 
 But what if the reviews are biased? This could become even a bigger concern in the case that the same company showing the rating *also* makes money by selling movie tickets. Wouldn't that grow a possible conflict of interest?
 
