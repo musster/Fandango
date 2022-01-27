@@ -13,3 +13,5 @@ In this project, I will be using the data which has been scraped by fivethirtyei
 This is the article behind the story: [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/) 
 
 This study has been prepared as a capstone project for Jose Portilla's Data Science course.
+
+[Click](https://github.com/musster/Fandango/blob/main/Fandango%20Project.ipynb) for the code implementation.
